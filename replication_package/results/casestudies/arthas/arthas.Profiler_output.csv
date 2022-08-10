@@ -1,0 +1,4 @@
+"Project","MethodIndex","Method","Count","Tests"
+"arthas","1","com.taobao.arthas.core.view.ObjectView.appendStringBuilder(StringBuilder,String)","1","com.taobao.arthas.core.view.ObjectViewTest.testIntArray []"
+"arthas","2","com.taobao.arthas.core.view.ObjectView.renderObject(Object,int,int,StringBuilder)","1","com.taobao.arthas.core.view.ObjectViewTest.testDate []"
+"arthas","3","com.taobao.arthas.core.util.TokenUtils.findSecondTokenText(List<CliToken>)","1","com.taobao.arthas.core.util.TokenUtilsTest.testFindSecondTextToken []"

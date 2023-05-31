@@ -1,6 +1,6 @@
 # Program Transformation Landscapes for Automated Program Modification Using Gin
 
-This is an artefact to accompany the "Program Transformation Landscapes for Automated Program Modification Using Gin", submitted to the Empirical Software Engineering journal. A permissive license will be added upon acceptance.
+This is an artefact to accompany the "Program Transformation Landscapes for Automated Program Modification Using Gin", accepted to the Empirical Software Engineering journal. 
 
 ## Repository Contents
 

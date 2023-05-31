@@ -1,6 +1,7 @@
 # Program Transformation Landscapes for Automated Program Modification Using Gin
 
-This is an artefact to accompany the "Program Transformation Landscapes for Automated Program Modification Using Gin", accepted to the Empirical Software Engineering journal. 
+This is an artefact to accompany the "Program Transformation Landscapes for Automated Program Modification Using Gin" paper by Justyna Petke, Bradley Alexander, Earl T. Barr, Alexander E.I. Brownlee, Markus Wagner, and David R. White.
+The paper was accepted by the Empirical Software Engineering journal. 
 
 ## Repository Contents
 
